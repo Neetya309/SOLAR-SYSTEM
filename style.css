@@ -1,0 +1,52 @@
+h1{
+  Color:white
+}
+body{
+  background-color:black;
+  text-align:center;
+  color:white
+}
+h3{
+  font-size:30px
+}
+h4{
+  word-spacing:5px;
+    font-size:20px
+}
+#sun{
+  height:1000px 
+}
+#mercury{
+  height:70px
+}
+#venus{
+  height:150px
+}
+#earth{
+  height:200px
+}
+#mars{
+  height:100px
+}
+#jupiter{
+  height:450px;
+}
+#saturn{
+  height:400px
+}
+#uranus{
+  height:350px;
+}
+#neptune{
+  height:300px
+}
+#pluto{
+  height:45px
+}
+#mars{
+  height:100px
+}
+#milkywaygalaxy{
+    text-align:center;
+    height:1050px;
+}
